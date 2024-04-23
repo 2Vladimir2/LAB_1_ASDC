@@ -16,11 +16,11 @@ bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###
-/nbproject/private/
-/nbbuild/
+/nvproject/private/
+/nvbuild/
 /dist/
-/nbdist/
-/.nb-gradle/
+/nvdist/
+/.nv-gradle/
 
 ### VS Code ###
 .vscode/
